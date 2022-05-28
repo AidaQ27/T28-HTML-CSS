@@ -1,0 +1,24 @@
+body{
+    background-color: antiquewhite;
+}
+h1 {
+    background-color:darkgoldenrod
+
+}
+
+h2{
+    color:cornflowerblue;
+}
+
+.note{
+    color:cornflowerblue;
+    font-size: 120%;
+}
+
+.parraf{
+    padding-left: 2%;
+}
+
+.container {
+    margin-right: 75%;
+}
