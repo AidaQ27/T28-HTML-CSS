@@ -5,26 +5,94 @@ body {
     margin: 0 auto;
 }
 
-.box {
-    display: flex;
-   
-
-
+.photo {
+    height: 170px;
 }
+
+img {
+   margin-left: 0px;
+   margin-right: 0px;
+}
+
 h1 {
     color: orange;
     text-align: center;
     letter-spacing: 6px;
+    margin-top: 5px;
+    margin-bottom: px;
    
 }
 
-.button {
+.box {
+    display: flex;
+    
+    
+}
+
+.index {
+    margin-top: 10px;
+    margin-left: 50px;
+   
+}
+
+
+.inicio {
+    position: relative;
+    padding-bottom: 15px;
+    width: 100px;
+    height: 14px;
+    right: 30px;
+    font-size: 90%;
+    text-align: center;
+    line-height: 30px;
+    border: #d3d3d3 1px solid;
+    
+    background-image: url(/parquenatural/img/unknown\ \(3\).png)
+    
 
 }
 
-ul {
-    padding: 20px;
+.especies {
+
+    position: relative;
+    width: 100px;
+    height: 25px;
+    right: 30px;
+    font-size: 90%;
+    text-align: center;
+    line-height: 30px;
+    border: #d3d3d3 1px solid;
+    margin-top: 10px;
+    background-image: url(/parquenatural/img/unknown\ \(2\).png)
+
 }
+
+.reservas{
+    position: relative;
+    width: 100px;
+    height: 25px;
+    right: 30px;
+    font-size: 90%;
+    text-align: center;
+    line-height: 30px;
+    border: #d3d3d3 1px solid;
+    margin-top: 10px;
+    background-image: url(/parquenatural/img/unknown\ \(2\).png)
+}
+
+.galeria{
+    position: relative;
+    width: 100px;
+    height: 25px;
+    right: 30px;
+    font-size: 90%;
+    text-align: center;
+    line-height: 30px;
+    border: #d3d3d3 1px solid;
+    margin-top: 10px;
+    background-image: url(/parquenatural/img/unknown\ \(2\).png)
+}
+
 span {
     color:rgb(84, 133, 11);
 }
@@ -46,7 +114,8 @@ h3 {
 
 .container {
     border: 2px solid rgb(173, 166, 166);
-    padding-left: 20px;
-    padding-right: 20px;
-    margin: 20px;
+    padding-left: 40px;
+    padding-right: 40px;
+    margin-right:  50px;
+    box-shadow:0 0px 4px #777, 0 0 50px #CCC inset;
 }
